@@ -1,0 +1,13 @@
+{
+  "name": "mayu-md",
+  "version": "1.0.0",
+  "description": "Mayu MD WhatsApp Mini Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "latest",
+    "pino": "latest"
+  }
+}
